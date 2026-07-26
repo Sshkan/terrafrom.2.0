@@ -1,4 +1,4 @@
-# terrafrom.2.0
+# terrafrom.2.0  init ,plan,apply ,destroy
 Brief decription about terraform
 Terraform Complete Guide (Step by Step)
 Step 1: What is Terraform?
